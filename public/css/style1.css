@@ -1,0 +1,165 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #a4eddc;
+}
+.container{
+    border: 1px solid #ccc;
+    background-color: white;
+    font-size: 14px;
+    -moz-box-shadow: 3px 3px 5px 0px #00896C;
+    -webkit-box-shadow: 3px 3px 5px 0px #00896C;
+    box-shadow: 3px 3px 5px 0px #00896C;
+}
+.container .row .col-4{
+    width: 40%;
+}
+.container table{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.container label{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.container .row .col-6{
+    width: 60%;
+}
+.container table, th, td{
+    border: solid 1px black;
+    text-align: center;
+}
+
+.container th{
+    background-color: #FCE4D6;
+}
+
+.container .row .chart
+{
+   border: solid 1px black;
+   margin: 30px;
+}
+
+ .container table .td{
+    background-color: #FCE4D6;
+    width: 80px;
+ }
+
+ .container table .td1{
+    text-align: left;
+    padding-left: 15px;
+ }
+ .container .col-4 .row
+ {
+     margin-right: 30px;
+     margin-left: 50px;
+ }
+
+ .container table .th1 {
+    background-color: #EC7D31;
+ }
+
+ .container table .th2 {
+    background-color: #F4B084;
+ }
+
+ .container .input-group-text{
+     background-color: #FCE4D6;
+     font-weight:normal;
+ }
+
+ /* --------------- luong 2-------------- */
+
+ .container .salary label{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+    background-color: #FAD678;
+}
+.container .salary table{
+    border: solid 2px black;
+    border-collapse:collapse;
+}
+
+.container .salary .th1{
+  border: none;
+}
+.container .salary td{
+    border: none;
+  }
+.container .salary th{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+    background-color: #FAD678;
+    text-align: end;
+    width:250px;
+    border: dashed 1px black;
+}
+
+.container .salary .th1{
+    width:30px;
+    text-align: center;
+    border: none;
+}
+.container .salary .td1{
+    border: dashed 1px black;
+}
+h5{
+    margin-left: 10px;
+    margin-top:20px;
+    font-weight: bold;
+}
+.salary h7{
+    margin-left: 50px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.link{ 
+    float:right;
+    width: 350px;
+    height: 42px;
+    padding-top: 10px;
+    background-color: #ED7D31;
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+.container .salary .th4{
+    text-align: center;
+    width: 100px;
+    border: solid 2px black;
+    font-weight: none;
+}
+.container .salary h6{
+    font-weight: bold;
+}
+.container .salary .col-10 a{
+    font-weight: bold;
+    background-color: #ED7D31;
+    width:200px;
+    height: 40px;
+    padding-top: 6px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+ 
+ 
